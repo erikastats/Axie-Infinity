@@ -1,0 +1,13 @@
+name: Axie
+title: Axie
+username:
+account: erika-sm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4581229
+bundleId: 5020773
+url: https://erika-sm.shinyapps.io/Axie/
+when: 1631299158.74161
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: autenticacao.R|outro/app.R|www/axl.png|www/slp.png
